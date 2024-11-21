@@ -28,7 +28,7 @@ const dataSteps = [
   },
   {
     titleData: {
-      subTitle: "LO PROMETIDO ES DEUDA",
+      subTitle: "TU PREMIO ESTÁ LISTO",
       title: "¡ENHORABUENA!",
     },
     couponData: {
