@@ -39,6 +39,22 @@ Este proyecto sigue los principios SOLID para garantizar un código más limpio,
 - **I (Interface Segregation Principle)**: No se crean interfaces complejas ni obligatorias; las clases y funciones están especializadas para realizar tareas concretas.
 - **D (Dependency Inversion Principle)**: La lógica de la aplicación no depende de detalles específicos, sino de abstracciones (clases e interfaces).
 
+## Enlace de Despliegue
+
+La aplicación está desplegada y puedes probarla directamente en el siguiente enlace:
+https://technical-test-siroko.netlify.app/
+
+## Análisis de Lighthouse
+
+Aquí se muestra el análisis de Lighthouse con los siguientes puntajes:
+
+- **Desempeño**: 97
+- **Accesibilidad**: 83
+- **Buenas prácticas**: 100
+- **SEO**: 90
+
+![Análisis de Lighthouse](https://i.postimg.cc/2S51sn1h/Screenshot-2024-11-21-221858.jpg)
+
 ## Conclusión
 
 Este proyecto demuestra la implementación de un flujo de trabajo dinámico e interactivo utilizando buenas prácticas en el desarrollo de **JavaScript**. A través de clases, herencia y principios **SOLID**, se busca crear un sistema fácil de mantener y extender, lo que hace que sea adecuado para proyectos de mayor envergadura.
