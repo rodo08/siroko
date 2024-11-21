@@ -1,0 +1,11 @@
+@import "../settings/_fonts.css";
+@import "../settings/_colors.css";
+
+p {
+  font-family: var(--font-paragraph);
+  color: var(--color-text-main);
+  font-weight: 400;
+  font-size: 1.6rem;
+  text-wrap: balance;
+  line-height: 1.872rem;
+}

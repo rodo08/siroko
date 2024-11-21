@@ -1,0 +1,16 @@
+@import "./generic/_normalize.css";
+@import "./elements/_body.css";
+@import "./elements/_main.css";
+@import "./elements/_header.css";
+@import "./elements/_section.css";
+@import "./elements/_footer.css";
+@import "./elements/_footer.css";
+@import "./elements/_headings.css";
+@import "./components/_form.css";
+@import "./elements/_ul.css";
+@import "./elements/_paragraph.css";
+@import "./elements/_label.css";
+@import "./elements/_input.css";
+@import "./components/_button.css";
+@import "./elements/_a.css";
+@import "./trumps/_trumps.css";

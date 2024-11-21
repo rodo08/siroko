@@ -1,0 +1,16 @@
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2.5rem 0;
+}
+
+.title-section {
+  max-width: 94rem;
+  margin: 0 auto;
+}
+
+.form-section {
+  max-width: 94rem;
+  margin: 0 auto;
+}

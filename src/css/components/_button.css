@@ -1,0 +1,22 @@
+@import "../settings/_colors.css";
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--color-text-main);
+  background-color: var(--color-button-bg);
+  border: none;
+  border-radius: 0.4rem;
+  padding: 1.2rem;
+  gap: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: var(--color-input-selected-bg);
+}

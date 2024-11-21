@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@font-face {
+  font-family: "Liberator Siroko Heavy";
+  src: url("../../assets/fonts/LiberatorSIROKO-Heavy.ttf") format("truetype");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Liberator Siroko Bold";
+  src: url("../../assets/fonts/LiberatorSIROKO-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Liberator Siroko SemiBold";
+  src: url("../../assets/fonts/LiberatorSIROKO-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Liberator Siroko Medium";
+  src: url("../../assets/fonts/LiberatorSIROKO-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Liberator Siroko Regular";
+  src: url("../../assets/fonts/LiberatorSIROKO-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Liberator Siroko Light";
+  src: url("../../assets/fonts/LiberatorSIROKO-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Liberator Siroko Thin";
+  src: url("../../assets/fonts/LiberatorSIROKO-Thin.ttf") format("truetype");
+  font-weight: 100;
+}
+
+:root {
+  --font-title-heavy: "Liberator Siroko Heavy", sans-serif;
+  --font-title-bold: "Liberator Siroko Bold", sans-serif;
+  --font-title-semibold: "Liberator Siroko SemiBold", sans-serif;
+  --font-title-medium: "Liberator Siroko Medium", sans-serif;
+  --font-title-regular: "Liberator Siroko Regular", sans-serif;
+  --font-title-light: "Liberator Siroko Light", sans-serif;
+  --font-title-thin: "Liberator Siroko Thin", sans-serif;
+  --font-paragraph: "Inconsolata", sans-serif;
+  --font-steps: "Inconsolata", monospace;
+}

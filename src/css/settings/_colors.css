@@ -1,0 +1,15 @@
+:root {
+  --color-text-main: #ffffff;
+  --color-text-instruction: #efe5c3;
+  --color-text-step: #2c5e5b;
+  --color-text-footer: #bbbbbb;
+  --color-step-bg: #5dc2bd;
+  --color-button-bg: #339b95;
+  --color-form-bg: #311429;
+  --color-footer-bg: #000000;
+  --color-input-bg: rgba(255, 255, 255, 0.09);
+  --color-input-selected-bg: #c92f58;
+  --color-coupon-gradient: -webkit-linear-gradient(to right, #ffffff, #bdbdbd);
+  --color-timer-bg: #2c0c23;
+  --color-timeout-bg: #c51414;
+}

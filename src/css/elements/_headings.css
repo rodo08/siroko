@@ -1,0 +1,34 @@
+@import "../settings/_fonts.css";
+@import "../settings/_colors.css";
+
+h1,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-title-heavy);
+  color: var(--color-text-main);
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 3.5rem;
+}
+
+h2 {
+  width: fit-content;
+  font-family: "Inter", sans-serif;
+  font-size: 0.9rem;
+  color: var(--color-text-step);
+  background-color: var(--color-step-bg);
+  padding: 0.3rem 0.7rem;
+  border-radius: 0.3rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  line-height: 2rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: var(--color-text-instruction);
+}

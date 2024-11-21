@@ -1,0 +1,8 @@
+@import "../settings/_colors.css";
+
+a {
+  font-family: "Inconsolata", sans-serif;
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: var(--color-text-main);
+}

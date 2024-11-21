@@ -1,0 +1,40 @@
+.header {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.5rem 2.5rem 0;
+
+  .header__logo {
+    max-width: 94rem;
+    margin: 0 auto;
+  }
+}
+
+.header__logo span:nth-child(1) {
+  display: inline;
+}
+
+.header__logo span:nth-child(2) {
+  display: inline;
+}
+
+.header__logo span:first-child {
+  display: inline;
+}
+
+.header__logo span:last-child {
+  display: none;
+}
+
+@media (width >= 764px) {
+  .header {
+    padding: 2.5rem 3.5rem 0;
+  }
+
+  .header__logo span:first-child {
+    display: none;
+  }
+
+  .header__logo span:last-child {
+    display: inline;
+  }
+}

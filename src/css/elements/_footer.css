@@ -1,0 +1,28 @@
+@import "../settings/_colors.css";
+
+.footer {
+  background-color: var(--color-footer-bg);
+  padding: 2.5rem;
+  margin-top: auto;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    max-width: 94rem;
+    margin: 0 auto;
+    gap: 1.638rem;
+
+    p {
+      font-family: "Inconsolata", sans-serif;
+      font-weight: 400;
+      font-size: 1.4rem;
+      color: var(--color-text-footer);
+    }
+  }
+}
+
+@media (width >= 764px) {
+  .footer {
+    padding: 2.5rem 3.5rem;
+  }
+}

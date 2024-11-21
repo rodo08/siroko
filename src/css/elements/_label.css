@@ -1,0 +1,15 @@
+@import "../settings/_colors.css";
+
+label {
+  display: flex;
+  align-items: center;
+  padding: 1.2rem 1.3rem;
+  background-color: var(--color-input-bg);
+  gap: 1rem;
+  border-radius: 0.4rem;
+  font-family: "Inconsolata", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: var(--color-text-main);
+  cursor: pointer;
+}
